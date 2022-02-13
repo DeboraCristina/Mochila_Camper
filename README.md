@@ -28,11 +28,11 @@ Ao mudar o nome do diretóio *'avaliacao'* o msm deverá ser feito nos arquivos 
 
 ### shell00
 ```bash
-  bash shell00.sh
+  bash teste_shell00.sh
 ```
 ### shell01
 ```bash
-  bash shell01.sh
+  bash teste_shell01.sh
 ```
 ### C00
 ```bash
