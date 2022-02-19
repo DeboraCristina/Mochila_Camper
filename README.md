@@ -11,9 +11,18 @@ Este repositório contem testes para as lista da 42 BaseCamp.
 - Tome cuidado **PRINCIPALME** com os camandos 'rm'. Eles têm o poder de deletar *qualquer coisa*.
 #
 
+# **Muita Atenção!**
+*Se for usar esses testes para avaliações:*
+- Nem todo código é igual.
+- Não resuma sua avaliação a testes, principalmente a esses!
+- Observe bem cada código.
+- Converse **bastante** com o avaliado.
+- **Seja humano** ;)
+
+#
 ## Modo de uso
 
-Os arqivos são organizados da seginte maneira:
+Os arquivos são organizados da seguinte maneira:
 
 - pasta geral
   - avaliacao (ou qualquer outra lista)
@@ -28,11 +37,11 @@ Ao mudar o nome do diretóio *'avaliacao'* o msm deverá ser feito nos arquivos 
 
 ### shell00
 ```bash
-  bash shell00.sh
+  bash teste_shell00.sh
 ```
 ### shell01
 ```bash
-  bash shell01.sh
+  bash teste_shell01.sh
 ```
 ### C00
 ```bash
